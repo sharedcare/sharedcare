@@ -6,5 +6,5 @@ I am Tony and I work at AIIT as a software developer. I have some experience in 
 
 -------
 
-###### For more information, please visit [my website](https://tchen.net).  ![Visits Badge](https://badges.pufler.dev/visits/sharedcare)
+###### For more information, please visit [my website](https://tchen.net).  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=sharedcare.sharedcare)
 
